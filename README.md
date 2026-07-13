@@ -15,22 +15,28 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20there,%20I%27m%20Jumin%F0%9F%91%8B&animation=fadeIn&fontSize=55&fontAlignY=40)
 
-### 두루 빛나는 옥돌(周珉)처럼, 끊임없는 연마로 기술의 가치를 완성해가는 개발자입니다.
+## 사용자와 안정성을 잇는 백엔드 개발자, 이주민입니다.
 
-웹 백엔드와 C++/Linux 기반 서버 소프트웨어를 함께 준비하고 있으며,  
+사용자가 서비스를 이용하는 흐름 뒤에는  
+정확한 데이터 처리와 안정적인 서버 구조가 필요하다고 생각합니다.
+
+Java/Spring Boot 기반 웹 백엔드와 서버 내부 동작 처리에 대해 프로젝트를 진행한 경험이 있습니다.  
 서비스의 데이터 정합성, 서버 안정성, 네트워크 기반 데이터 처리 구조에 관심이 있습니다.
 
-📧 Email: jumin1356@gmail.com
+
+📧 Email: jumin1356@gmail.com  
+📝 Blog : https://jijbab-bodmbodm-1356.tistory.com/
 
 ---
 
 ## 👩‍💻 About Me
 
-- Java / Spring Boot 기반 웹 백엔드 개발과 C++ / Linux 기반 서버 소프트웨어 개발을 함께 학습하고 있습니다.
-- 주문, 결제, 재고, 알림처럼 서비스의 핵심 흐름을 API와 데이터 구조로 설계하는 데 관심이 있습니다.
-- TCP/IP 기반 데이터 송수신, 패킷 파싱, 멀티스레드 처리 구조를 직접 구현하며 네트워크 기반 서버 구조를 학습했습니다.
-- Redis Lua Script 기반 재고 선점·차감, RabbitMQ 기반 비동기 알림, k6 부하 테스트, 로그 기반 병목 분석을 경험했습니다.
-- 문제를 감으로 판단하기보다 직접 재현하고 측정한 뒤, 원인을 분석하고 개선하는 개발자가 되고 싶습니다.
+- Java/Spring Boot 기반 REST API와 웹 백엔드 기능을 구현하고 있습니다.
+- 사용자 흐름을 중심으로 데이터 구조와 도메인 상태를 설계하는 데 관심이 있습니다.
+- 데이터 정합성, 외부 API 연동, 실패 상황을 고려한 전체적인 흐름을 고민합니다.
+- 문제를 추측으로 판단하기보다, 테스트와 로그를 통해 분석하고 있습니다.
+- 서버 내부 동작을 이해하기 위해 TCP/IP 데이터 송수신, 패킷 파싱, ThreadPool 기반 멀티스레드 처리 구조를 구현해 보았습니다.
+- AI 도구를 구현에 활용하고, 실제 동작과 API 연동 결과를 직접 확인합니다.
 
 ---
 
@@ -52,6 +58,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TCP/IP-1F2937?style=flat-square&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Linux Socket API-333333?style=flat-square&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Multi Threading-555555?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/epoll-333333?style=flat-square&logoColor=white"/>
 </p>
 
 **Database / Cache / Message Queue**

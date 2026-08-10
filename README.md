@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20there,%20I%27m%20Jumin%F0%9F%91%8B&animation=fadeIn&fontSize=55&fontAlignY=40)
 
-## 사용자와 안정성을 잇는 백엔드 개발자, 이주민입니다.
+## 사용자와 안정성을 잇는 개발자, 이주민입니다.
 
 사용자가 서비스를 이용하는 흐름 뒤에는  
 정확한 데이터 처리와 안정적인 서버 구조가 필요하다고 생각합니다.

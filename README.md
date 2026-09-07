@@ -53,17 +53,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 </p>
 
-**System / Network**
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/TCP/IP-1F2937?style=flat-square&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Linux Socket API-333333?style=flat-square&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Multi Threading-555555?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/epoll-333333?style=flat-square&logoColor=white"/>
-</p>
-
 **Database / Cache**
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
